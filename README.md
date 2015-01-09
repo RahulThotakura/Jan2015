@@ -41,3 +41,7 @@ User: yes
 *******************
 See CompileRun_Instructions.txt for compile and run instructions
 See Junit_Instructions.docx  for running the JUnit tests
+*****************
+Other
+*****************
+Code checked in using sourcetree
