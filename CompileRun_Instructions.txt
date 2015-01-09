@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------
+1) Set the class in classpath:
+-----------------------------------------------------------------------------------
+C:\Users\Duke>set CLASSPATH=C:\Users\Duke\workspace\NumberGuess\src\com\mytest;
+-----------------------------------------------------------------------------------
+2) Compilation:
+-----------------------------------------------------------------------------------
+Standalone compile: C:\Users\Duke>javac C:\Users\Duke\workspace\NumberGuess\src\com\mytest\NumberGuess.java
+Or
+Run the Ant Build - Compile target
+-----------------------------------------------------------------------------------
+3)Run the program[Need to cd to the src directory]:
+-----------------------------------------------------------------------------------
+cd C:\Users\Duke\workspace\NumberGuess\src
+
+java com.mytest.NumberGuess
+
+
+
+
