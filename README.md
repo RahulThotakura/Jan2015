@@ -1,12 +1,13 @@
-Number Guess Game
+This program is related to the Number Guess Game
 
 *******************
-Pre requisites:
+Pre requisites to compile and run the program:
 *******************
-JDK 1.6 or higher
-JUnit 4
+JDK 1.6 or higher,
+JUnit 4,
+Ant
 *******************
-Requirements:
+Logical Requirements:
 *******************
 Write a program in Java to play a number-guessing game. The game works as follows:
 
@@ -36,7 +37,7 @@ Computer: Is the number 40?
 
 User: yes
 *******************
-Other Instructions:
+Compile and Run, Test Instructions:
 *******************
-CompileRun_Instructions.txt for compile and run instructions
-Junit_Instructions.docx  for running the JUnit tests
+See CompileRun_Instructions.txt for compile and run instructions
+See Junit_Instructions.docx  for running the JUnit tests
